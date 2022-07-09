@@ -1,4 +1,5 @@
 {
+  "duration": 500,
   "lanes_count": 6,
   "observation": {    
       "vehicles_count": 150,
