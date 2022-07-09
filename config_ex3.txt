@@ -1,4 +1,5 @@
 {
+  "duration": 500,
   "observation": {
       "vehicles_count": 30,
       "vehicles_density": 15,
