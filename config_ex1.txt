@@ -1,6 +1,7 @@
 {
   
   "observation": {
+      "duration": 500,
       "vehicles_count": 20,
       "vehicles_density": 3,
       "type": "GrayscaleObservation",
